@@ -4,7 +4,7 @@
 
 <em><h5 align="center">(formerly Electron Launcher)</h5></em>
 
-![Screenshot 1]([https://i.imgur.com/6o7SmH6.png](https://cdn.discordapp.com/attachments/1259823000056758324/1267466480107126784/launcher_image.png?ex=66a8e3a5&is=66a79225&hm=6705c7b3aac9111c9c412223e129539a272b30ffc34873f3192df30657ff44a7&)
+![Screenshot 1]([https://cdn.discordapp.com/attachments/1259823000056758324/1267466480107126784/launcher_image.png?ex=66a8e3a5&is=66a79225&hm=6705c7b3aac9111c9c412223e129539a272b30ffc34873f3192df30657ff44a7&])
 
 ## Features
 
