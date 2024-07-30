@@ -519,7 +519,7 @@ function defaultJavaConfig8(ram) {
     return {
         minRAM: resolveSelectedRAM(ram),
         maxRAM: resolveSelectedRAM(ram),
-        executable: null,
+        executable: "%JAVA_HOME%/bin/javaw.exe",
         jvmOptions: [
             '-XX:+UseConcMarkSweepGC',
             '-XX:+CMSIncrementalMode',
@@ -533,7 +533,7 @@ function defaultJavaConfig17(ram) {
     return {
         minRAM: resolveSelectedRAM(ram),
         maxRAM: resolveSelectedRAM(ram),
-        executable: null,
+        executable: "%JAVA_HOME%/bin/javaw.exe",
         jvmOptions: [
             '-XX:+UnlockExperimentalVMOptions',
             '-XX:+UseG1GC',
